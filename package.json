@@ -1,0 +1,25 @@
+{
+  "name": "super-xbr",
+  "version": "1.0.0",
+  "description": "Upscale images with super-xbr.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansonw/super-xbr.git"
+  },
+  "keywords": [
+    "xbr",
+    "image",
+    "scale",
+    "upscale",
+    "resize",
+    "enlarge",
+    "filter",
+    "super-xbr"
+  ],
+  "author": "Hanson Wang",
+  "license": "MIT"
+}
